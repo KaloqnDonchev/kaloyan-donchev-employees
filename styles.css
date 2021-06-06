@@ -1,3 +1,7 @@
 .hidden {
   display: none;
 }
+
+#file-input {
+  margin-top: 15px;
+}
